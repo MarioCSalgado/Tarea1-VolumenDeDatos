@@ -1,0 +1,12 @@
+#Ejecutables
+exact_hh
+pcap2bin
+main_n
+ventana
+*.o
+*.exe
+
+# datos generados
+*.pcap
+*.pcap.gz
+*.bin
