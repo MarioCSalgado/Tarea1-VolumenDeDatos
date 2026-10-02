@@ -1,0 +1,62 @@
+{
+  "traza_base": "/mnt/c/Users/mario/Desktop/Tarea1-VolumenDeDatos/real/data/traza.bin",
+  "traza_salida": "/mnt/c/Users/mario/Desktop/Tarea1-VolumenDeDatos/real/data/traza_scan.bin",
+  "semilla": 7,
+  "ventana_ataque_us": [
+    1543813500309033,
+    1543813530308937
+  ],
+  "ventana_ataque_rel_s": [
+    300.0,
+    330.0
+  ],
+  "paquetes_inyectados": 240000,
+  "bytes_inyectados": 15360000,
+  "pps_nominal": 8000.0,
+  "paquetes_por_segundo_reales": [
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    7999,
+    8001,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000,
+    8000
+  ],
+  "registros_base": 123383971,
+  "registros_salida": 123623971,
+  "fraccion_sintetica": 0.001941,
+  "marca": "bit 4 de flags (0x10) en cada paquete inyectado",
+  "ataque": {
+    "tipo": "scan",
+    "atacante": "198.18.0.7",
+    "prefijo_destino": "198.18.0.0/16",
+    "n_destinos": 60000,
+    "puerto": 80,
+    "clave_esperada": {
+      "por_origen": "198.18.0.7"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+# trazas y archivos grandes
+*.pcap
+*.pcap.gz
+*.bin
+data/
+# intermedios de run_all.sh
+trabajo/
+# entregables que se suben aparte (no al repositorio)
+informe/
+presentacion/
+# binarios compilados
+datos/pcap2bin
+datos/exact_hh
+actividad1/swsketch
+__pycache__/
+*.log

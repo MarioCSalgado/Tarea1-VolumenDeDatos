@@ -1,0 +1,14 @@
+== caracterización de la traza ==
+registros            : 123383971
+duración             : 899.955312 s
+tasa media           : 137100 pkt/s, 1.009 Gbps
+paquetes sintéticos  : 0 (0.0000%)
+claves distintas     : 15842698
+  con frecuencia 1   : 15459502 (97.6%)
+peso total           : 123383971 (paquetes)
+fracción en el top-10 : 0.4704
+fracción en el top-100: 0.6458
+clave más frecuente  : 202.12.82.146
+  con peso           : 36476061 (29.5630% del total)
+memoria de la tabla  : 650.7 MB (estimada)
+VmHWM del proceso    : 4294.6 MB (incluye la traza mapeada)

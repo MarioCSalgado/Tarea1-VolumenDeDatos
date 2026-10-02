@@ -1,0 +1,12 @@
+-- base_dst
+umbral T distinto en 0 ventanas
+ventanas comparadas: 84; distintas: 0; solo en sketch: 0; solo en exacta: 0
+OK: N_j coincide en todas las ventanas comunes.
+-- ddos
+umbral T distinto en 0 ventanas
+ventanas comparadas: 84; distintas: 0; solo en sketch: 0; solo en exacta: 0
+OK: N_j coincide en todas las ventanas comunes.
+-- scan
+umbral T distinto en 0 ventanas
+ventanas comparadas: 84; distintas: 0; solo en sketch: 0; solo en exacta: 0
+OK: N_j coincide en todas las ventanas comunes.
